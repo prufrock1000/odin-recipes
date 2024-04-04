@@ -1,0 +1,20 @@
+/*styles.css*/
+
+
+#page{
+    background-color: rgb(181, 187, 97);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;} 
+
+
+ul {text-align: center;}
+
+
+#homepage-title{
+    color:green;
+    background-color: rgb(255, 72, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;}
+
+ #chili-title{text-align: center;}
+
